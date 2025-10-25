@@ -10,7 +10,23 @@ INTRODUCTION
 
 Dans un monde où l’éducation est un droit fondamental, de nombreux enfants à mobilité réduite continuent de faire face à des obstacles majeurs pour accéder à un enseignement de qualité. Que ce soit à cause de l’inaccessibilité physique des écoles, du manque de matériel adapté ou d’un isolement social, ces enfants sont souvent exclus du système éducatif traditionnel.*Classe Sans Barrières* est une plateforme éducative inclusive pensée spécialement pour répondre à ces défis. Elle vise à offrir un environnement d’apprentissage numérique, interactif et accessible à tous les enfants à mobilité réduite, leur permettant de suivre les cours, d’interagir avec leurs enseignants et camarades, et de progresser à leur rythme depuis leur domicile ou tout autre lieu accessible.Cette initiative s’appuie sur les technologies du cloud et des réseaux étendus (WAN) pour garantir une disponibilité continue, une accessibilité multisupport (ordinateur, tablette, smartphone) et une expérience personnalisée selon les besoins spécifiques de chaque apprenant. À cet effet, l'éducation des enfants à mobilité réduite pose de nombreux problèmes entrenant ainsi des conséquences néfastes pour leur vie future. 
 
+  Contexte
 
+Dans les zones rurales , l'accès à l'éducation pour les élèves en situation de handicap moteur demeure un défi majeur. Bien que l'État ait exprimé sa volonté de promouvoir l'inclusion scolaire, la réalité sur le terrain montre que plusieurs écoles primaires ne disposent pas encore d'infrastructures adaptées. Les rampes d'accès sont rares, les salles de classe ne sont pas aménagées pour des fauteuils roulants, et les bureaux sont souvent fixés, rendant les mouvements difficiles.À ceci s'ajoute le manque de formation spécialisée pour les enseignants. La plupart d’entre eux n'ont pas reçu de formation sur l'accompagnement pédagogique individualisé ou l'adaptation des contenus pour des élèves à besoins spécifiques. Les cours sont dispensés selon une méthodologie standardisée, ce qui désavantage fortement les élèves en situation de handicap.Par ailleurs, la perception sociale joue également un rôle important. Dans certaines familles ou communautés, l'enfant handicapé moteur est encore perçu comme fragile, dépendant ou incapable de suivre une scolarité normale. Ces croyances contribuent à réduire la motivation des parents à inscrire ou maintenir leurs enfants à l'école.
+Ce manque d’infrastructures, d’adaptation pédagogique et de sensibilisation entraîne plusieurs conséquences :
+- Un taux élevé d'absentéisme parmi les élèves handicapés moteurs
+- Un retard scolaire récurrent, même lorsque l’enfant est capable intellectuellement
+- Une exclusion sociale progressive, qui affecte l’estime de soi et le développement personnel
+C’est dans ce contexte que le projet « Classe Sans Barrière » est conçu comme une solution innovante permettant de contourner certains obstacles structurels grâce à la technologie, tout en renforçant la collaboration entre enseignants, parents, élèves et administration. Dans ces zones , les infrastructures scolaires ne sont pas toujours adaptées aux élèves souffrant d’un handicap moteur : escaliers, bancs fixes, cours sans rampes, sanitaires inaccessibles… De plus, peu d’enseignants sont formés à la pédagogie différenciée ou à l’accompagnement des enfants ayant des besoins particuliers. Ceci entraîne :
+- Un taux de scolarisation faible chez les enfants en situation de handicap
+- Une intégration sociale limitée
+- Un sentiment de marginalisation
+Par ailleurs, les parents manquent parfois d’information sur les dispositifs existants, et l’administration scolaire n’a pas toujours les outils nécessaires pour organiser un suivi pédagogique personnalisé.
+
+   Problématique
+
+Malgré la volonté d’inclusion, les écoles ne disposent pas toujours des ressources, de l’infrastructure et de l’expertise nécessaires pour garantir une éducation adaptée aux élèves vivant avec un handicap moteur. Ces difficultés soulèvent la problématique centrale suivante :Comment assurer une éducation accessible, continue et inclusive aux élèves à handicap moteur, en surmontant les contraintes physiques, pédagogiques et sociales ?
+La réponse à cette question nécessite une approche innovante basée sur l’utilisation de solutions numériques adaptées et d’un réseau de communication performant.
 
 I / QU'EST-CE QU'UNE MOBILITÉ RÉDUITE ET QUELS SONT SES DÉFIS 
 
